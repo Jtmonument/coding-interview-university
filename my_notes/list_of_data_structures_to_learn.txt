@@ -1,0 +1,13 @@
+Array
+LinkedList
+Stack
+Queue
+Hash table
+Tree
+Graph
+
+Operations::
+  Access
+  Search
+  Insertion
+  Deletion
